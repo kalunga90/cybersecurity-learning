@@ -33,7 +33,7 @@ network security, security operations, and application security.
 
                 Personal Data: can be used for individuals identification. Exists both online and offline. Offline identity data, or the real-life persona, includes full name, age and address. Online identity is your online presentation. Usernames, alias for online accounts, and social identity portrayed on online communities and websites.
 
-                No social midia, does not mean no online identity. If you use the web, you have an online identity.
+                No social-media, does not mean no online identity. If you use the web, you have an online identity.
 
                 Usernames - Important points in creating one:
                                                - No parts of address or phone number.
