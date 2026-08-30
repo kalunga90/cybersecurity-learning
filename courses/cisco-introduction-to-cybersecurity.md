@@ -66,8 +66,9 @@ network security, security operations, and application security.
 
 
 
-
+               -----------------------------------------------
                3.1 Protecting your device and Network.
+               -----------------------------------------------
 
    Protecting your computing devices. Basic steps for a new device.
 
@@ -161,7 +162,17 @@ Home wireless networks enable computers and mobile devices to share one broadban
      * Cloud storage service. You have a backup as long as you have an account. Keeps your data safe from device failure or extreme situations such as fire or theft.
 
 
+  3.2.4 Recycle bin and delete it permanently. 
+   Even with this procedure the file is not gone forever. It is only inacessible from the operating system. Anyonewith the right forensic tools could recover the file due to a MAGNETIC TRACE left on the hard drive.
+   3.2.5 How do you delete your data permanently?
+    * To make data no longer recoverable, it must be overwritten with ones and zeroes multiple times, using tools designed for that. 
+      Tools: 
+            SDelete from Microsoft.
+            Shred for Linux.
+            SEcure Empty Trash for Mac OS X.
 
+     * Nevertheless, the only certainty will be to physically destroy the hard drive or storage device.
+   
 
 
 
