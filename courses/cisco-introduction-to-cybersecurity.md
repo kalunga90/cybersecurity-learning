@@ -78,9 +78,30 @@ network security, security operations, and application security.
         keep them updated and with the latest patchs.
       - set up password protection
         regardless of password encrypt your sensitive data.
+
+
+   IoT devices present a greater risk than other computing devices. They tend to keep their original software with all the vulnerabilities "attached". Most of them require internet access and most often they are connected to your local network. By connecting these devices to your local network hackers can break into your network through your IoT device. Best practice is to isolate IoT devices in a different network.
+    
+   Shodan.io - web-based IoT device scanner that helps identify vulnerable IoT devices.
+
+            3.1.3 Wireless Network Security at Home
+
+   Although a wireless router can be configured not to broadcast the SSID, this is not adequate security for wireless network.
+   These detais should be changed. Additionally, one should encrypt wireless communication by enagbling wireless security and the WPA2 encryption feature on their router. Even doing so, a wireless network can still be vulnerable.
+
+
+
+
+
+
+
+
+
+
   
 - New terminology:
                   ISP (Internet Service Provider)
+                  SSID (Service Set Identifier) - preset network identifier
                   White hat hacker
                   Grey hacker
                   Black hacker
