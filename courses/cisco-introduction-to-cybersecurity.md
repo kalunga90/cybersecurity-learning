@@ -89,8 +89,11 @@ network security, security operations, and application security.
    Although a wireless router can be configured not to broadcast the SSID, this is not adequate security for wireless network.
    These detais should be changed. Additionally, one should encrypt wireless communication by enagbling wireless security and the WPA2 encryption feature on their router. Even doing so, a wireless network can still be vulnerable.
 
-
-
+   Hackers will try to break the encryption between router and wireless device using a Key Reinstallation Attack (KRACK). When successful they get access to network data.
+  Mitigation actions:
+      - update all wireless devices security softwares as soon as new patchs are available.
+      - use wired connection for devices with wired network interface card (NIC)
+      - use VPN when accessing a wireless network.
 
 
 
@@ -102,6 +105,7 @@ network security, security operations, and application security.
 - New terminology:
                   ISP (Internet Service Provider)
                   SSID (Service Set Identifier) - preset network identifier
+                  NIC (Network interface card)
                   White hat hacker
                   Grey hacker
                   Black hacker
