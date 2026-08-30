@@ -196,18 +196,32 @@ Home wireless networks enable computers and mobile devices to share one broadban
       
   
   ---------------------------------------------
-  3.4 Two Factor Authentication
+  3.4 Safeguarding your online privacy
   ---------------------------------------------
-   
-      Besides your username and password or PIN, two factor authentication requires a second token to verify your identity. This may be:
+    **Two Factor Authentication**
+Besides your username and password or PIN, two factor authentication requires a second token to verify your identity. This may be:
        * Physical object such as credit card, mobile phone or fob.
        * biometric scan (fingerprints or facial and voice recognition)
        * verification code sent via SMS or email.
 
       With phishing attacks, malware and social engineering, hackers can still pass through a two factor authentication login.
 
+     3.4.2 Open Authorization (OAuth)
+     Open standard protocol that allows you to use your credentials to access third-party applications without exposing your password.
+     In practice:
+         * You use your social media accounts to register to a website, application, email account without the need of your password.
 
+     3.4.3 Social sharing
+     Share as little as possible with personal data. 
+     No date of birth, mobile phone number, email address, or working colleagues names...
 
+      3.4.4 Spoof protection
+      Forged or spoofed email can lead to massive data breach and irreversible reputation damage.
+
+      For public traded companies this means loss of credibility and stock price crash as information becomes public that there was data breach, clients' data theft, maybe IP theft, etc.
+      For individuals theft of personality to acquire credit, loans and steal money.
+     
+   
 
 
 
