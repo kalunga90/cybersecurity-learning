@@ -146,6 +146,35 @@ Home wireless networks enable computers and mobile devices to share one broadban
     * No password expiration period.
     * No knowledge-based authentication, such as answer to secret quetions or verify transaction history.
 
+
+    3.2 Data Maintenance
+
+    Encryption does not prevent data interception. It can only prevent unauthorized people from viewing the content. Some criminals will encrypt your data and make it unusable until ransom is paid.
+
+    Software programs encrypt data. Encrypting file system (EFS) is a windowns feature for encrypting data. 
+
+    3.2.3 Back up your data.
+    Have a backup of all your important data in case your devices (computer, phone..) are lost or stolen. Copy it regularly to a chosen location.
+    Additional storage locations.
+     * Home Network (locally stored)
+     * NAS (network attached storage) - external hard drive, thumb drives, CD, DVD, tapes...
+     * Cloud storage service. You have a backup as long as you have an account. Keeps your data safe from device failure or extreme situations such as fire or theft.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 - New terminology:
                   ISP (Internet Service Provider)
