@@ -221,11 +221,11 @@ Besides your username and password or PIN, two factor authentication requires a 
       For public traded companies this means loss of credibility and stock price crash as information becomes public that there was data breach, clients' data theft, maybe IP theft, etc.
       For individuals theft of personality to acquire credit, loans and steal money.
      
-   
-
-
-
-
+      Remember that anyone with physical access to your device or router can view that website you visited, your emails are readable by anyone who access the digital chain between you and your recipients. 
+  
+      3.4.5 Email and web browser privacy
+      These problems can be minimized with in-private browsing mode. Enabling private mode cookies are disabled. Thus temporary internet files are removed and browsing history are deleted when you close the window or program. But new breaching schemes are constantly being developed and still hackers can try to access intermediary devices, like routers, to gather information about a user's web surfing history.
+ 
 
 
 
