@@ -180,10 +180,37 @@ Home wireless networks enable computers and mobile devices to share one broadban
     3.3.1 Terms of service
     Also known as terms of use or terms and conditions. Is a legally binding contract.
     It will outline how the service provider will collect, use and share your data.
-    Privacy settings allow you to control who sees and access your profile and account data.
+    Privacy settings allow you to control who sees and access your profile and account data (never leave it at default).
     Security policy outlines what the company does to secure the data it obtains from you.
 
     Special attention to Data Use Policy, that can grant the company full re-use of your content for any purpose that suits them.
+
+     3.3.6 On Sign Up
+     Attention points:
+      * Terms of service
+      * your rights regarding your data.
+      * Can you request a copy of your data?
+      * What can the provider do with the data you upload.
+      * What happens to your data when the account is closed.
+
+      
+  
+  ---------------------------------------------
+  3.4 Two Factor Authentication
+  ---------------------------------------------
+   
+      Besides your username and password or PIN, two factor authentication requires a second token to verify your identity. This may be:
+       * Physical object such as credit card, mobile phone or fob.
+       * biometric scan (fingerprints or facial and voice recognition)
+       * verification code sent via SMS or email.
+
+      With phishing attacks, malware and social engineering, hackers can still pass through a two factor authentication login.
+
+
+
+
+
+
 
 
 
