@@ -226,7 +226,23 @@ Besides your username and password or PIN, two factor authentication requires a 
       3.4.5 Email and web browser privacy
       These problems can be minimized with in-private browsing mode. Enabling private mode cookies are disabled. Thus temporary internet files are removed and browsing history are deleted when you close the window or program. But new breaching schemes are constantly being developed and still hackers can try to access intermediary devices, like routers, to gather information about a user's web surfing history.
  
+     -------------------------------------------
+     3.5 Discover your own risky online behavior
+     --------------------------------------------
 
+     3.5.1 Online personal data sharing
+     Posting your vacation picture is a nice way to help criminals target your house.
+     3.5.2 Online service new account
+     For each online service you should create a new password. Writing it down can be risky and better is to use a password manager application.
+     3.5.3 Open wi-fi hotspot connection
+     Use a VPN and make sure only access https://  websites.
+     3.5.4 Trial version program downloading
+     No downloading of unknown sources. Malwares are likely.
+      3.5.5 Pop up window warnings
+      Scaring warnings pop ups are never sent by reliable sources. Only use your own antivirus service for safety matters.
+      3.5.6 Clicking on links in an email
+      Make sure the email is official by checking with IT department.
+      
 
 
 
