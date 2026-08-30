@@ -67,7 +67,17 @@ network security, security operations, and application security.
 
 
 
+               3.1 Protecting your device and Network.
 
+   Protecting your computing devices. Basic steps for a new device.
+
+      - turn on firewall
+        either a software or a hardware on a router
+      - install antivirus and antispyware
+      - manage o.s. and browser
+        keep them updated and with the latest patchs.
+      - set up password protection
+        regardless of password encrypt your sensitive data.
   
 - New terminology:
                   ISP (Internet Service Provider)
