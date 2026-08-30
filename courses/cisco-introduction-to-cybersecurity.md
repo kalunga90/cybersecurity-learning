@@ -172,9 +172,10 @@ Home wireless networks enable computers and mobile devices to share one broadban
             SEcure Empty Trash for Mac OS X.
 
      * Nevertheless, the only certainty will be to physically destroy the hard drive or storage device.
-   
 
-
+  ---------------------------------------------
+  3.3 Who owns your data?
+  --------------------------------------------
 
 
 
@@ -188,6 +189,7 @@ Home wireless networks enable computers and mobile devices to share one broadban
 
   
 - New terminology:
+                  EFS (Encrypting File System)
                   ISP (Internet Service Provider)
                   SSID (Service Set Identifier) - preset network identifier
                   NIC (Network interface card)
