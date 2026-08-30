@@ -95,9 +95,42 @@ network security, security operations, and application security.
       - use wired connection for devices with wired network interface card (NIC)
       - use VPN when accessing a wireless network.
 
+          3.1.4 Public wi-fi risks
+          Never access or send any personal information using public WI-FI.
+          Verify that your device is not configured with file and media sharing and that it requires user authentication with encryption.
+          Use encrypted VPN service to prevent information interception ('eavesdropping') over public wireless network. Even if hackers intercept a data transmission in an encrypted VPN tunnel, they will not be able to decipher it.
+          
+       Recommendations from the FCC
 
+  **Public Wi-Fi Access**
 
+Many Wi-Fi users choose to use public networks instead of a device's data plan for accessing the internet. But the convenience of public Wi-Fi can be risky. Hackers can access your connection and compromise sensitive information stored on your devices and in your online accounts. Here are some steps you can take to minimize the risk:
 
+    Watch out for imposter public Wi-Fi hotspots. If more than one hotspot seems to belong to an establishment that you're in, check with the staff to avoid connecting to an imposter hotspot.
+    Make sure all websites you exchange information with have "https" at the beginning of the web address. The "s" in "https" stands for "secure," so your transmitted data will be encrypted and much less likely to be hacked.
+    Install an app add-on that forces your web browsers to use encryption when connecting to websites.
+    Adjust your cellphone settings so it does not automatically connect to nearby Wi-Fi networks that are not on your short list of trusted networks.
+    If you use public Wi-Fi hotspots on a regular basis, consider using a virtual private network (VPN), which will encrypt all transmissions between your device and the internet. Many companies offer VPNs to their employees for work purposes, and individuals may subscribe to VPNs on their own.
+    When transmitting sensitive information, using your cellphone data plan instead of Wi-Fi may be more secure.
+
+**Bluetooth Security**
+
+Bluetooth connections to your mobile devices can be used to connect to wireless headsets, transfer files, and enable hands-free calling while you drive, for example. Most of the time, a user must allow a Bluetooth connection to occur before data is shared – a process called "pairing" – which provides a measure of data security. But like Wi-Fi connections, Bluetooth can put your personal data at risk. Here are some steps you can take when using Bluetooth:
+
+    Turn Bluetooth off when not in use. Keeping it active enables hackers to discover what other devices you connected to before, spoof one of those devices, and gain access to your device.
+    If you use Bluetooth to connect your mobile phone to a rental car, be sure to unpair your phone and clear any personal data from the car before you return it. Take the same steps when selling a car that has Bluetooth.
+    Use Bluetooth in "hidden" mode rather than "discoverable" mode. This prevents other unknown devices from finding your Bluetooth connection.
+
+**Home Wireless Network Security**
+
+Home wireless networks enable computers and mobile devices to share one broadband connection to the internet wirelessly all over your home. But home wireless networks have vulnerabilities that hackers can exploit. To help protect your home network from unwanted users, consider the following steps:
+
+    Turn on encryption. Wireless routers often come out of the box with the encryption feature disabled, so be sure it is enabled when you set up your network. 
+    Change the network's default network name, also known as its service set identifier or "SSID." When a computer with a wireless connection searches for and displays the wireless networks nearby, it lists each network that publicly broadcasts its SSID. Manufacturers usually give all of their wireless routers a default SSID, which is often the company's name. For additional security, choose a unique and hard-to-guess name as your SSID.
+    Change the network's default password. Most wireless routers come with preset passwords for administering a device's settings (this is different from the password used to access the wireless network itself). Hackers may be familiar with the default passwords, so it is important to change the router device's password when you install it. Longer passwords made up of a combination of letters, numbers, and symbols are more secure.
+    For added security, activate the Media Access Control or "MAC" address filter in your wireless router. Every device that can connect to a Wi-Fi network has a unique ID called the "physical address" or "MAC" address. Wireless routers can screen the MAC addresses of all devices that connect to them, and you can set your wireless network to accept connections only from MAC addresses that you approve.
+    Turn off your wireless router when it will not be in use for an extended period of time.
+    Use security apps on your computer and  on mobile devices that access your wireless network.
 
 
 
@@ -106,6 +139,7 @@ network security, security operations, and application security.
                   ISP (Internet Service Provider)
                   SSID (Service Set Identifier) - preset network identifier
                   NIC (Network interface card)
+                  MAC (Media Access Control or "physical address")
                   White hat hacker
                   Grey hacker
                   Black hacker
