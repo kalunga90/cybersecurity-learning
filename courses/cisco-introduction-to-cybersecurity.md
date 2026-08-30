@@ -132,7 +132,19 @@ Home wireless networks enable computers and mobile devices to share one broadban
     Turn off your wireless router when it will not be in use for an extended period of time.
     Use security apps on your computer and  on mobile devices that access your wireless network.
 
+ 3.1.7 Using a Passphrase
+      Use good password practices but instead of word create a phrase. 
 
+ Guidelines from NIST. Aim is to place responsability on service providers:
+
+    * Min 8 characters, max 64.
+    * Dumb passwords, like "password" or "abc123" shall not be used.
+    * No composition rules, such as having to include lower and uppercase letters and numbers.
+    * Password should be visible when typing to help accuracy.
+    * All printing characters and spaces should be allowed.
+    * No password hints.
+    * No password expiration period.
+    * No knowledge-based authentication, such as answer to secret quetions or verify transaction history.
 
   
 - New terminology:
