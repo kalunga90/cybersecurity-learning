@@ -177,7 +177,13 @@ Home wireless networks enable computers and mobile devices to share one broadban
   3.3 Who owns your data?
   --------------------------------------------
 
+    3.3.1 Terms of service
+    Also known as terms of use or terms and conditions. Is a legally binding contract.
+    It will outline how the service provider will collect, use and share your data.
+    Privacy settings allow you to control who sees and access your profile and account data.
+    Security policy outlines what the company does to secure the data it obtains from you.
 
+    Special attention to Data Use Policy, that can grant the company full re-use of your content for any purpose that suits them.
 
 
 
